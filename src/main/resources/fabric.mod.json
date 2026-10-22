@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "useful_recipes",
+	"version": "${version}",
+	"name": "Useful Recipes",
+	"description": "Don's custom recipes, converted from his CraftTweaker script: bulk rails and iron bars, chainmail from nuggets, stonecutter wood cutting, charcoal in the smoker and blast furnace, and more.",
+	"authors": [
+		"Don"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"mcwbridges": "*"
+	}
+}

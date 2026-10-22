@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": "minecraft:oak_log",
+  "result": {
+    "id": "minecraft:charcoal"
+  },
+  "category": "misc",
+  "experience": 0.35,
+  "cookingtime": 100
+}

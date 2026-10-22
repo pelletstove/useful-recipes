@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": "minecraft:netherrack",
+  "result": {
+    "id": "minecraft:nether_brick"
+  },
+  "category": "misc",
+  "experience": 0.35,
+  "cookingtime": 100
+}
